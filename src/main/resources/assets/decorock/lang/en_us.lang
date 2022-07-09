@@ -1,0 +1,12 @@
+//Items
+item.sliced_bread.name=Sliced Bread
+//Blocks
+tile.frog_light.name=Froglight
+tile.lamp_block.name=Lamp
+tile.mud_block.name=Mud
+tile.mud_bricks.name=Mud Bricks
+//CustomBlock
+tile.stormtrooper.name=Mini Stormtrooper
+tile.mini_pig.name=Mini Pig
+//Tabs
+itemGroup.decorocktab=DecoRock

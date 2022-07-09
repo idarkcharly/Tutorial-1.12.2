@@ -1,0 +1,12 @@
+//Items
+item.simple_bread.name=Pan Sencillo
+//Blocks
+tile.frog_light.name=Froglight
+tile.lamp_block.name=Bloque luminoso
+tile.mud_block.name=Barro
+tile.mud_bricks.name=Adobe
+//CustomBlock
+tile.stormtrooper.name=Stormtrooper
+tile.mini_pig.name=Cerdito
+//Tabs
+itemGroup.decorocktab=DecoRock
